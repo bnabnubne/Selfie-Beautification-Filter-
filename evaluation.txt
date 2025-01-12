@@ -1,75 +1,48 @@
+Testing filter: None
+Average FPS for None: 10.60
+Testing filter: Smooth Skin
+Average FPS for Smooth Skin: 9.99
+Testing filter: Eye color
+Average FPS for Eye color: 10.19
+Testing filter: Fish Eye
+Average FPS for Fish Eye: 10.07
+Testing filter: Blush
+Average FPS for Blush: 9.98
+Testing filter: Lipstick
 Average FPS for Lipstick: 10.02
-Average PSNR for Lipstick: 50.15
-Average MSE for Lipstick: 0.63
 Testing filter: Glasses
 Average FPS for Glasses: 10.01
-Average PSNR for Glasses: 49.02
-Average MSE for Glasses: 0.82
 Testing filter: Dog Nose
-Average FPS for Dog Nose: 10.00
-Average PSNR for Dog Nose: 49.12
-Average MSE for Dog Nose: 0.80
+Average FPS for Dog Nose: 9.97
 Testing filter: Xmas Hat
 Average FPS for Xmas Hat: 10.00
-Average PSNR for Xmas Hat: 38.72
-Average MSE for Xmas Hat: 8.81
 Testing filter: Frog Hat
-Average FPS for Frog Hat: 6.03
-Average PSNR for Frog Hat: 38.27
-Average MSE for Frog Hat: 9.69
+Average FPS for Frog Hat: 7.04
 Testing filter: Bunny Hat
-Average FPS for Bunny Hat: 9.98
-Average PSNR for Bunny Hat: 37.40
-Average MSE for Bunny Hat: 11.84
+Average FPS for Bunny Hat: 9.97
 Testing filter: Cat 1
-Average FPS for Cat 1: 10.02
-Average PSNR for Cat 1: 40.65
-Average MSE for Cat 1: 5.60
+Average FPS for Cat 1: 10.03
 Testing filter: Cat 2
-Average FPS for Cat 2: 10.01
-Average PSNR for Cat 2: 44.27
-Average MSE for Cat 2: 2.43
+Average FPS for Cat 2: 10.00
 Testing filter: Cat w Glasses
 Average FPS for Cat w Glasses: 10.00
-Average PSNR for Cat w Glasses: 42.55
-Average MSE for Cat w Glasses: 3.61
 Testing filter: Flower
 Average FPS for Flower: 10.01
-Average PSNR for Flower: 42.47
-Average MSE for Flower: 3.68
 Testing filter: Negative
-Average FPS for Negative: 10.01
-Average PSNR for Negative: 27.08
-Average MSE for Negative: 127.42
+Average FPS for Negative: 10.54
 Testing filter: Sepia
 Average FPS for Sepia: 10.00
-Average PSNR for Sepia: 28.85
-Average MSE for Sepia: 84.72
 Testing filter: Wide Angle View
 Average FPS for Wide Angle View: 10.00
-Average PSNR for Wide Angle View: 30.11
-Average MSE for Wide Angle View: 63.42
 Testing filter: Edge
-Average FPS for Edge: 10.00
-Average PSNR for Edge: 27.63
-Average MSE for Edge: 112.10
+Average FPS for Edge: 10.01
 Testing filter: Black & White
-Average FPS for Black & White: 10.01
-Average PSNR for Black & White: 31.82
-Average MSE for Black & White: 42.80
+Average FPS for Black & White: 10.76
 Testing filter: Cool Tone
-Average FPS for Cool Tone: 10.00
-Average PSNR for Cool Tone: 29.09
-Average MSE for Cool Tone: 80.27
+Average FPS for Cool Tone: 10.42
 Testing filter: Brighten & Contrast
-Average FPS for Brighten & Contrast: 10.00
-Average PSNR for Brighten & Contrast: 28.22
-Average MSE for Brighten & Contrast: 98.03
+Average FPS for Brighten & Contrast: 10.07
 Testing filter: Rainbow Overlay
-Average FPS for Rainbow Overlay: 10.01
-Average PSNR for Rainbow Overlay: inf
-Average MSE for Rainbow Overlay: 0.00
+Average FPS for Rainbow Overlay: 10.76
 Testing filter: Reset
-Average FPS for Reset: 10.01
-Average PSNR for Reset: inf
-Average MSE for Reset: 0.00
+Average FPS for Reset: 10.57
