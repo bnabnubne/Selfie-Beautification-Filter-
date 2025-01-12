@@ -1,4 +1,4 @@
-link presentation : https://drive.google.com/file/d/1UZ7V8Ca6EV5zgPi-yN9jmtQRvnwLkRaC/view?usp=sharing
+link presentation : [link](https://husteduvn-my.sharepoint.com/:v:/g/personal/lan_lethi1_hust_edu_vn/ERfgyphqLwpIndve2H8Lb3EB3b9DMFXi5kLmqHtAHYnCzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VfPNQA)
 
 # Selfie Beautification Filter 🎥✨
 
@@ -10,4 +10,4 @@ link presentation : https://drive.google.com/file/d/1UZ7V8Ca6EV5zgPi-yN9jmtQRvnw
 - **Beautification Filters**: Smooth skin, brighten & contrast adjustments, and more. 
 - **Accessory Overlays**: Hats, glasses, flower crowns, and more.
 - **Color Adjustments**: Real-time RGB sliders for customizable effects.
-- **Performance Metrics**: Evaluate FPS, PSNR, and MSE for filter efficiency.
+- **Performance Metrics**: Evaluate FPS for filter efficiency.
