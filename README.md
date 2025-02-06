@@ -38,5 +38,5 @@ python main.py
 3. Follow on-screen instructions to apply filters in real-time.
 
 ## Demo
-![Demo Image](images/ha.jpg)
-![Demo Image](images/huong.png)
+![Demo Image](demo/ha.jpg)
+![Demo Image](demo/huong.png)
