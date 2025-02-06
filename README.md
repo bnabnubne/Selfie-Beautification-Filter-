@@ -11,3 +11,32 @@ link presentation : [link](https://husteduvn-my.sharepoint.com/:v:/g/personal/la
 - **Accessory Overlays**: Hats, glasses, flower crowns, and more.
 - **Color Adjustments**: Real-time RGB sliders for customizable effects.
 - **Performance Metrics**: Evaluate FPS for filter efficiency.
+
+## Technologies Used
+- **Programming Language**: Python
+- **Libraries**: OpenCV, Dlib, NumPy
+- **Facial Recognition**: Dlib’s 68-point facial landmark model
+
+## Installation
+### Prerequisites
+Ensure you have Python installed (recommended version: **3.8+**).
+
+```bash
+pip install opencv-python numpy dlib
+```
+
+## Usage
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/Selfie-Beautification-Filter.git
+cd Selfie-Beautification-Filter
+```
+2. Run the main script:
+```bash
+python main.py
+```
+3. Follow on-screen instructions to apply filters in real-time.
+
+## Demo
+![Demo Image](images/ha.jpg)
+![Demo Image](images/huong.png)
